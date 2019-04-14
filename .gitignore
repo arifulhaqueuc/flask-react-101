@@ -1,0 +1,13 @@
+*.DS_Store
+*.pyc
+.git
+
+env
+venv
+myenv
+
+
+node_modules/
+npm-debug.log
+bower_components/
+.module-cache

@@ -5,6 +5,10 @@ move to phase 2 with what's next tutorial.
 
 
 
+Challenges
+=====
+1. The github repo project structure doesnot resemble with the description given in blog post. So donot follow the instructions given in blog post bliendly.
+
 
 
 App Endpoints

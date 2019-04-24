@@ -1,3 +1,8 @@
+About 
+=======
+This is a hello world application with flask and react. 
+
+
 Current Status
 ==========
 Until now, the app is running fine, and at this moment just finished initial setup. Now need to
